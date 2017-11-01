@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  skidViewController
+
+  Created by Des on 2017/9/28.
+  Copyright © 2017年 WJC. All rights reserved.
+*/
+
+"CFBundleName"        = "CP55";
+"CFBundleDisplayName" = "CP55";
